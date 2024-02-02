@@ -22,3 +22,7 @@ else:
 # 1. Make the script executable by running: chmod +x system_check.py
 # 2. Execute the script using: ./system_check.py
 # Note: The first line in the script (shebang) is important for the executable to work.
+# - In Windows:
+#   1. Open a command prompt or PowerShell.
+#   2. Navigate to the directory containing the script.
+#   3. Execute the script using: python system_check.py
