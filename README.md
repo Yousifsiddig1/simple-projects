@@ -1,1 +1,1 @@
-This repository is a collection of small, straightforward projects developed using Python and Java. The goal of this repository is to provide a space for coding exercises, small applications, or experiments that showcase practical coding skills 🤛
+This repository is a collection of small, straightforward projects developed using Python -maybe java soon- The goal of this repository is to provide a space for coding exercises, small applications, or experiments that showcase practical coding skills 🤛
